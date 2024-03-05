@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<jdbcDataAdapter class="net.sf.jasperreports.data.jdbc.JdbcDataAdapterImpl">
+  <name>infox</name>
+  <driver>com.mysql.jdbc.Driver</driver>
+  <username>root</username>
+  <password>will@1844</password>
+  <url>jdbc:mysql://localhost:3306/dbinfox</url>
+  <database></database>
+  <savePassword>true</savePassword>
+  <serverAddress></serverAddress>
+</jdbcDataAdapter>
