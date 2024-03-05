@@ -12,7 +12,7 @@ public class ModuloConexao {
         String driver = "com.mysql.cj.jdbc.Driver";
         String url = "jdbc:mysql://localhost:3306/dbinfox";
         String user = "root";
-        String password = "will@1844";
+        String password = "root";
         try {
             Class.forName(driver);
             conexao = DriverManager.getConnection(url, user, password);
